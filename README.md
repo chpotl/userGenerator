@@ -1,6 +1,6 @@
 # REST API
 
-The REST API to the app is described below.
+The REST API for the app is described below.
 
 ## Get all users
 
